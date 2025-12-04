@@ -74,13 +74,6 @@ I enjoy turning ideas into working products from prototypes to scalable systems 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627)  
 ![SQL](https://img.shields.io/badge/SQL-00758F)  
 
----
-
-## GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohamedtahaahmedtaha&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedtahaahmedtaha&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
