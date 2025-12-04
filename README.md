@@ -1,119 +1,75 @@
-<!-- DARK MODE PROFILE WITH ANIMATED TYPING + GALLERY + PLACEHOLDERS -->
+<!-- PROFESSIONAL DARK MODE GITHUB PROFILE README WITH PINNED REPOS -->
 
-<!-- Typing Animation -->
+<!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DF7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mohamed+Taha;Data+Scientist+%7C+ML+Engineer+%7C+Flutter+Developer;I+build+AI+%26+Computer+Vision+Projects;Always+learning+%26+exploring+AI+models" />
-</p>
-
-<h3 align="center" style="color:#9ecbff;"> Welcome to my GitHub Profile</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohamedtahaahmedtaha&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DF7FF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Mohamed+Taha;Data+Scientist+%7C+ML+Engineer+%7C+Flutter+Developer;AI+%26+Computer+Vision+Enthusiast" />
 </p>
 
 ---
 
-## About Me  
-- Passionate about **Machine Learning, Deep Learning & Computer Vision**  
-- Experienced in **Flutter** for cross-platform mobile apps  
-- Specialized in **Computer Vision, NLP, LLMS And Gen AI solutions**  
-- I build **end-to-end ML systems**: data → preprocessing → modeling → evaluation → deployment  
-- Always exploring new AI architectures & research papers  
+## About Me
+I am an AI/ML Engineer with hands-on experience delivering end-to-end machine learning, deep learning, and GenAI solutions.  
+My background includes two intensive years serving as an AI model developer in the Egyptian Naval Forces, where I built production-ready models under high-pressure environments with strict performance and reliability constraints.
+
+I specialize in:
+- Building full AI pipelines (data processing, modeling, evaluation, deployment)  
+- Computer Vision, NLP, and Generative AI systems  
+- RAG pipelines, vector databases, and LLM agents  
+- Model optimization and experimentation across multiple domains  
+
+I enjoy turning ideas into working products — from prototypes to scalable systems — and continuously improving my skills through real projects, competitions, and specializations.
 
 ---
 
-##  Tech Stack  
-
-### **AI / ML / Data Science**
-<p>
-  <img src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white"/>
-</p>
-
-
-### **Tools**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white"/>
-</p>
+## Pinned Projects
+| Project | Description | Tech Stack | Repository |
+|---------|-------------|------------|------------|
+| EyeCG | Deep Learning Model for reconstructing CMR images from retinal images using CycleGAN and deep regressor for LV volume estimation | Python, OpenCV, YOLOv8 ResNet50 | [Repo](https://github.com/Mohamedtahaahmedtaha/EyeCG) |
+| Automation Warm Leads Bot | Automated NLP bot that extracts and qualifies leads from online platforms using LangChain & OpenAI | OpenAI, LangChain | [Repo](https://github.com/Mohamedtahaahmedtaha/Automation-Warm-Leads-Bot) |
+| Telegram Voice to Text Bot | AI Telegram bot that converts voice messages into text, analyzes audio quality, and integrates with Trello | OpenAI, LangChain | [Repo](https://github.com/Mohamedtahaahmedtaha/Telegram-voice-to-text) |
+| Book Recommendation System | Collaborative Filtering based Book Recommendation System using user interactions, ratings, and similarity | Pandas, NumPy, Scikit-learn | [Repo](https://github.com/Mohamedtahaahmedtaha/Book-Recommendation-system) |
+| Sentiment Analysis for Mental Health | NLP & ML system to classify mental health related statements accurately | NLP, Wordcloud, Pandas, Profiling | [Repo](https://github.com/Mohamedtahaahmedtaha/Sentiment-Analysis-for-Mental-Health) |
+| RAG PDF | Multilingual PDF Data Extraction Pipeline with OCR & RAG support | OpenAI, RAG | [Repo](https://github.com/Mohamedtahaahmedtaha/RAG-PDF) |
+| Retail Copilot Hybrid | Hybrid AI Agent for Retail Analytics with NL-to-SQL + RAG over local docs | Ollama, RAG | [Repo](https://github.com/Mohamedtahaahmedtaha/Retail-Copilot-Hybrid) |
+| Remote Sensing Segmentation | Land Cover Segmentation using DeepLabv3 + ResNet50 with Partial Cross-Entropy Loss | DeepLabv3, ResNet50 | [Repo](https://github.com/Mohamedtahaahmedtaha/Remote-sensing-segmentation) |
 
 ---
 
-#  AI & Computer Vision Projects Gallery  
-*(Using placeholders — replace when ready)*
-
-<table align="center">
-<tr>
-<td align="center">
-  <img src="https://via.placeholder.com/300x180.png?text=EyeCG+Project+Preview" width="300"/><br>
-  <b>🎓 EyeCG (Graduation Project)</b>
-</td>
-<td align="center">
-  <img src="https://via.placeholder.com/300x180.png?text=Eye+Diseases+Classifier" width="300"/><br>
-  <b>Eye Diseases Classification</b>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-  <img src="https://via.placeholder.com/300x180.png?text=Eye+for+Blind+Captioning" width="300"/><br>
-  <b>Eye for the Blind</b>
-</td>
-<td align="center">
-  <img src="https://via.placeholder.com/300x180.png?text=Brain+Tumor+Detection" width="300"/><br>
-  <b>Brain Tumor Detection</b>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-  <img src="https://via.placeholder.com/300x180.png?text=Bone+Fracture+Detection" width="300"/><br>
-  <b>Bone Fracture Detection</b>
-</td>
-<td align="center">
-  <img src="https://via.placeholder.com/300x180.png?text=More+AI+Projects" width="300"/><br>
-  <b>More Projects...</b>
-</td>
-</tr>
-</table>
+## Skills
+Python, TensorFlow, PyTorch, OpenCV, YOLOv8, Pandas, NumPy, Scikit-learn, Matplotlib, NLP, RAG, LangChain, Dart, Flutter, SQL, PowerBI, Tableau, PySpark, Alteryx, MLOps pipelines, LLM Agents, GenAI workflows, Feature Engineering, Statistics, Time Series Analysis, Data Analysis
 
 ---
 
-# Project Demo GIFs  
-*(Placeholders — replace with your own GIF demos later)*
-
-### EyeCG Reconstruction Demo  
-![Demo](https://via.placeholder.com/500x250.gif?text=EyeCG+Reconstruction+GIF)
-
-### Eye Diseases Classifier Demo  
-![Demo](https://via.placeholder.com/500x250.gif?text=Eye+Diseases+Demo)
-
-### Brain Tumor Classification Demo  
-![Demo](https://via.placeholder.com/500x250.gif?text=Brain+Tumor+Model+Demo)
-
-### Bone Fracture Detection Demo  
-![Demo](https://via.placeholder.com/500x250.gif?text=Bone+Fracture+AI+GIF)
+## Certificates & Achievements
+- 2 years of experience in developing AI models for the Egyptian Naval Forces  
+- DELL Technologies first place winner  
+- NLP Specialization – DeepLearning.AI – Coursera  
+- Computer Vision Specialization – DeepLearning.AI – Coursera  
+- Machine Learning Specialization – DeepLearning.AI – Coursera  
+- TensorFlow Specialization – DeepLearning.AI – Coursera  
+- PyTorch Specialization – DeepLearning.AI – Coursera  
+- Probabilistic Graphical Models Specialization – DeepLearning.AI – Coursera  
+- Business Analysis Track – 365DataScience  
+- RAG Track – DataCamp  
+- LangChain Track – DataCamp  
+- LLM Track – DataCamp  
+- Gen AI Track – DataCamp  
+- Time Series Track – DataCamp  
+- MLOps Track – DataCamp  
+- PySpark Track – DataCamp  
+- Alteryx Track – DataCamp  
+- PowerBI Track – DataCamp  
+- Tableau Track – DataCamp  
+- SQL Track – DataCamp  
+- Statistics – Udacity  
+- Math for ML – Coursera  
+- Feature Engineering – Kaggle  
+- Data Analysis Track – Udacity & ITIDA  
+- Flutter Path – Udemy
 
 ---
 
-## Certificates  
-- Machine Learning Specialization – Coursera  
-- Deep Learning Specialization – Coursera  
-- TensorFlow Developer Certificate  
-- Data Analysis with Python – IBM  
-- Flutter Development Bootcamp  
-
----
-
-## GitHub Stats  
-
+## GitHub Stats
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohamedtahaahmedtaha&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedtahaahmedtaha&layout=compact&theme=tokyonight" />
@@ -121,19 +77,8 @@
 
 ---
 
-## Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamedtahaahmed">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:MohamedTahaAhmedTaha@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Mohamedtahaahmedtaha">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<h3 align="center" style="color:#9ecbff;">⭐ Thanks for visiting — feel free to star any project ❤️</h3>
+## Contact
+- LinkedIn: [https://www.linkedin.com/in/mohamedtahaahmed](https://www.linkedin.com/in/mohamedtahaahmed)  
+- GitHub: [https://github.com/Mohamedtahaahmedtaha](https://github.com/Mohamedtahaahmedtaha)
+- Portfolio: [https://lluistaha.vercel.app/](https://lluistaha.vercel.app/)
+- Email: MohamedTahaAhmedTaha@gmail.com
