@@ -17,7 +17,7 @@ I specialize in:
 - RAG pipelines, vector databases, and LLM agents  
 - Model optimization and experimentation across multiple domains  
 
-I enjoy turning ideas into working products — from prototypes to scalable systems — and continuously improving my skills through real projects, competitions, and specializations.
+I enjoy turning ideas into working products from prototypes to scalable systems and continuously improving my skills through real projects, competitions, and specializations.
 
 ---
 
@@ -69,13 +69,6 @@ Python, TensorFlow, PyTorch, OpenCV, YOLOv8, Pandas, NumPy, Scikit-learn, Matplo
 
 ---
 
-## GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohamedtahaahmedtaha&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedtahaahmedtaha&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## Contact
 - LinkedIn: [https://www.linkedin.com/in/mohamedtahaahmed](https://www.linkedin.com/in/mohamedtahaahmed)  
