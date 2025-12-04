@@ -2,7 +2,13 @@
 
 <!-- Animated Typing -->
 <p align="center">
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DF7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mohamed+Taha;Data+Scientist+%7C+ML+Engineer+%7C+Flutter+Developer;I+build+AI+%26+Computer+Vision+Projects;Always+learning+%26+exploring+AI+models" />
+</p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DF7FF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Mohamed+Taha;Data+Scientist+%7C+ML+Engineer+%7C+Flutter+Developer;AI+%26+Computer+Vision+Enthusiast" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohamedtahaahmedtaha&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
 ---
